@@ -1,0 +1,12 @@
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Exports/UsersExport.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Exports/UsersExport.php on line 12
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Exports/AllExport.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Exports/AllExport.php on line 11
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Maatwebsite\Excel\Concerns\FromCollection' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Exports/DetailExport.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Exports/DetailExport.php on line 10

@@ -1,0 +1,72 @@
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bazresin/bookfair.bazresin.com/laravel/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/view.php on line 17
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/app.php on line 16
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/bazresin/bookfair.bazresin.com/laravel/config/barcode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/barcode.php on line 4
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/cache.php on line 18
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/broadcasting.php on line 18
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/database.php on line 18
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/filesystems.php on line 16
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/bazresin/bookfair.bazresin.com/laravel/config/excel.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/excel.php on line 164
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/flare.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/flare.php on line 16
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/ignition.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/ignition.php on line 18
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/logging.php on line 20
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/mail.php on line 16
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/queue.php on line 16
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/hashing.php on line 32
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/sanctum.php on line 16
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/session.php on line 21
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/sweetalert.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/sweetalert.php on line 15
+[04-May-2022 13:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bazresin/bookfair.bazresin.com/laravel/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/config/services.php on line 18

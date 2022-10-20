@@ -1,0 +1,20 @@
+[04-May-2022 13:48:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/View/Components/Section.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/View/Components/Section.php on line 7
+[04-May-2022 13:48:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/View/Components/Day.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/View/Components/Day.php on line 7
+[04-May-2022 13:48:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/View/Components/Destroy.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/View/Components/Destroy.php on line 7
+[04-May-2022 13:48:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/View/Components/Payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/View/Components/Payment.php on line 8
+[04-May-2022 13:48:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/View/Components/Loge.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/View/Components/Loge.php on line 7

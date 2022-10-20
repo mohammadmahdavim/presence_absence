@@ -1,0 +1,56 @@
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_043959_create_loges_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_043959_create_loges_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_043833_create_sections_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_043833_create_sections_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_041621_create_areas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_041621_create_areas_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_044140_create_personnels_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_044140_create_personnels_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_043922_create_payment_sources_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_043922_create_payment_sources_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_044009_create_roles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_044009_create_roles_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_044028_create_days_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_044028_create_days_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_044141_create_presences_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_044141_create_presences_table.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_05_01_163130_add_sum_to_presences.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_05_01_163130_add_sum_to_presences.php on line 7
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_044204_create_forecasts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/migrations/2022_04_28_044204_create_forecasts_table.php on line 7

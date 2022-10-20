@@ -1,0 +1,8 @@
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Maatwebsite\Excel\Concerns\ToCollection' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Imports/personellImporter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Imports/personellImporter.php on line 17
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Maatwebsite\Excel\Concerns\ToCollection' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Imports/MangerImporter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Imports/MangerImporter.php on line 17

@@ -1,0 +1,8 @@
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/seeders/DaySeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/seeders/DaySeeder.php on line 8
+[04-May-2022 13:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/bazresin/bookfair.bazresin.com/laravel/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/database/seeders/DatabaseSeeder.php on line 8

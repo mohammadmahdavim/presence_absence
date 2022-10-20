@@ -1,0 +1,4 @@
+[04-May-2022 13:48:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/bazresin/bookfair.bazresin.com/laravel/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/tests/TestCase.php on line 7

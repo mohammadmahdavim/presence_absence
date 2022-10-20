@@ -1,0 +1,40 @@
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Area.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Area.php on line 9
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Forecast.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Forecast.php on line 9
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Day.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Day.php on line 10
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/PaymentSource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/PaymentSource.php on line 9
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Personnel.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Personnel.php on line 9
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Loge.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Loge.php on line 9
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Presence.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Presence.php on line 8
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Role.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Role.php on line 9
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Section.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/Section.php on line 9
+[04-May-2022 13:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bazresin/bookfair.bazresin.com/laravel/app/Models/User.php on line 11
